@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚗 Used Car Analysis: Linear Regression, Logistic Regression & Time Series
 
 A student machine learning project exploring **Linear Regression**, **Logistic Regression**, and **Time Series Forecasting** on the CarDekho dataset.
@@ -76,3 +77,6 @@ The notebook [`car_price_prediction.ipynb`](file:///C:/Users/samar/.gemini/antig
    ```powershell
    .\.venv\Scripts\jupyter notebook car_price_prediction.ipynb
    ```
+=======
+# car_price_prediction_system
+>>>>>>> d635fdb16e8efe6802904ee45805a9d196e1a689
